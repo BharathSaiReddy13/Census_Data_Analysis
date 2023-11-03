@@ -1,1 +1,3 @@
 # Census_Data_Analysis
+The census data of a moderately sized town has been carefully examined to provide insights and recommendations for future service investments and potential developments on an unused plot of land. Prior to making these recommendations, the census data underwent a thorough cleaning process to rectify data errors and missing records, and additional columns were added for a more comprehensive analysis. The data was then visualized using various plots, with the assistance of Python libraries such as matplotlib.pyplot and Seaborn.
+Final recommendations are to build church in the unoccupied land and money should be invested in old age home
